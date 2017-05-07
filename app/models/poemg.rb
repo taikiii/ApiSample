@@ -1,2 +1,0 @@
-class Poemg < ApplicationRecord
-end
