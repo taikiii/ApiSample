@@ -1,0 +1,2 @@
+class Poemg < ApplicationRecord
+end
